@@ -1,0 +1,2 @@
+5/19/2018 5:49:03 PM:System.DivideByZeroException: Attempted to divide by zero.
+   at ADOdotnet_With_ASPdotnet.Delete_a_record_by_using_the_non_parameterized_query.btn_delete_Click(Object sender, EventArgs e) in D:\Training\DOTNET DOC_new\ADO.net\ADOdotnet_With_ASPdotnet\ADOdotnet_With_ASPdotnet\Delete_a_record_by_using_the_non_parameterized_query.aspx.cs:line 31
